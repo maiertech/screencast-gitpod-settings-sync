@@ -1,0 +1,15 @@
+ports:
+  - port: 5173
+    visibility: public
+    onOpen: open-browser
+
+tasks:
+  - name: Run dev server
+    init: npm install
+    command: npm run dev
+
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
+    - svelte.svelte-vscode
