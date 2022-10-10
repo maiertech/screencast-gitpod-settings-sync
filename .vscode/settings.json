@@ -1,14 +1,13 @@
 {
-  "breadcrumbs.enabled": false,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.fontSize": 14,
-  "editor.formatOnSave": true,
-  "editor.lineHeight": 22,
-  "editor.lineNumbers": "off",
-  "editor.hover.enabled": false,
-  "editor.quickSuggestionsDelay": 1500,
-  "editor.tabSize": 2,
-  "window.zoomLevel": 2,
-  "workbench.activityBar.visible": true,
-  "workbench.statusBar.visible": false
+	"breadcrumbs.enabled": false,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.fontSize": 14,
+	"editor.lineHeight": 22,
+	"editor.lineNumbers": "off",
+	"editor.hover.enabled": false,
+	"editor.quickSuggestionsDelay": 1500,
+	"editor.tabSize": 2,
+	"window.zoomLevel": 2,
+	"workbench.activityBar.visible": true,
+	"workbench.statusBar.visible": false
 }
